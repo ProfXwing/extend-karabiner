@@ -3,6 +3,8 @@
 # What is this?
 This is a karabiner elements complex ruleset for DreymaR's extend layer. In other words, this allows you to use [DreymaR's Extend Layer](https://dreymar.colemak.org/layers-extend.html) using the MacOS application [Karabiner Elements](https://karabiner-elements.pqrs.org/), with some minor modifications for better usage on MacOS.
 
+# How do I use it?
+After downloading [Karabiner Elements](https://karabiner-elements.pqrs.org/) and giving it the required permissions, just click this link: []()
 
 # What are the changes?
 The following is an image of DreymaR's extend layer for reference.
