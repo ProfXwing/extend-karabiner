@@ -1,7 +1,7 @@
 {
-  "title": "Extend",
+  "title": "DreymaR Extend",
   "rules": [{
-    "description": "DreymaR's Extend Mappings",
+    "description": "Implements the Extend layer created by DreymaR as documented in https://dreymar.colemak.org/layers-extend.html, with some modifications.",
     "manipulators": [{
       "from": {
         "key_code": "caps_lock",
