@@ -773,6 +773,23 @@
         "key_code": "f12"
       }],
       "type": "basic"
+    }, {
+      "conditions": [{
+        "name": "extend",
+        "type": "variable_if",
+        "value": 1
+      }],
+      "from": {
+        "key_code": "spacebar",
+        "modifiers": {
+          "mandatory": [],
+          "optional": ["any"]
+        }
+      },
+      "to": [{
+        "key_code": "return_or_enter"
+      }],
+      "type": "basic"
     }]
   }]
 }
